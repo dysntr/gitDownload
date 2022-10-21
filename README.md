@@ -78,7 +78,10 @@ This F# project allows users to download github files & folder to the current fo
 
 ## Usage
 
+To run the code use dotnet as follow:
 `dotnet run https://github.com/tinchoabbate/damn-vulnerable-defi/tree/master/contracts/climber`
+
+To build the binary run `./build.sh`.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
