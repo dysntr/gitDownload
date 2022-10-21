@@ -107,7 +107,5 @@ Project Link: [https://github.com/dysntr/gitDownload](https://github.com/dysntr/
 ## Acknowledgments
 
 - [jmhickman](https://github.com/jmhickman)
-- []()
-- []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
