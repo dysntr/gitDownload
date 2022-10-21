@@ -66,7 +66,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/dysntr/gitDownload/)
 
 This F# project allows users to download github files & folder to the current folder.
 
