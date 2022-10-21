@@ -97,7 +97,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Dysan - [@dysntr](https://twitter.com/dysntr) - email@email_client.com
+Dysan - [@dysntr](https://twitter.com/dysntr)
 
 Project Link: [https://github.com/dysntr/gitDownload](https://github.com/dysntr/gitDownload)
 
